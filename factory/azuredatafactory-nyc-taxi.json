@@ -1,0 +1,9 @@
+{
+	"name": "azuredatafactory-nyc-taxi",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0535d145-068c-4641-ac37-ace173edff1f",
+		"tenantId": "2bdc9fb4-fe4e-488f-b776-89c8a26542a9"
+	}
+}
